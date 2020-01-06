@@ -1,0 +1,32 @@
+git remote add origin https://.............git 
+		ou
+git remote add github https://.............git
+
+https://github.com/Agimar/webSite.git
+
+https://github.com/Agimar/site.git
+
+
+git pull origin master
+   	ou 
+git pull github master
+
+
+//atualizar pasta
+
+git status
+
+git add --all
+
+git commit -m "informa qual mudança"
+
+
+git push -u origin master 
+	ou
+git push github master
+
+
+Criei um site simples usando HTML, CSS e Javascript
+
+//git remote
+//git remote -v

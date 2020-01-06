@@ -1,0 +1,28 @@
+body{
+	margin-left: 50px;
+	background: #f8f9fa;
+	font-family: helvetica;
+}
+
+ul{
+	font-family: monospace;
+}
+
+li{
+	list-style: circle;
+}
+
+h1{
+	text-align: center;
+}
+
+.list{
+	list-style: square;
+}
+
+#date{
+	background: #eee;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+}

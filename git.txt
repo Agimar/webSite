@@ -1,0 +1,18 @@
+//GIT - aula 9 e 12
+
+	// Clonar = git clone + endereço: https://github.com/agimar
+
+ 	//git init - iniciar git na pasta
+
+	//git add --all #apagar todos os arquivos e pastas
+
+	//git commit -m "criei meu repositorio" #salvou no github
+
+	// git remote add origin https://github.com/agimar/
+
+	//git config --global user.name "Agimar"
+	//git config --global user.name "agimar@outlook.com"
+
+	//git push origin master
+
+	//git pull origin master  - atualizar arquivo
